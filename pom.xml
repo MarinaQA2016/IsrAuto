@@ -72,6 +72,7 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>src/test/resources/testng.xml</suiteXmlFile>
                     </suiteXmlFiles>
+                    <encoding>UTF-8</encoding>
                     <systemPropertyVariables>
                         <application.properties>/application.properties</application.properties>
                     </systemPropertyVariables>
