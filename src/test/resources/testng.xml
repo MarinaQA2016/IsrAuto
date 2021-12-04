@@ -6,7 +6,7 @@
       <class name="org.exmpl.tests.LoginTests"/>
       <class name="org.exmpl.tests.SettingsDepartmentTests"/>
       <class name="org.exmpl.tests.ManagerHomeTests"/>
-      <class name="org.exmpl.tests.SettingEmployeesTests"/>
+      <!--<class name="org.exmpl.tests.SettingEmployeesTests"/>-->
 
     </classes>
   </test>
